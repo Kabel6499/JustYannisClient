@@ -1,1 +1,3 @@
 This is a uncompleted Version of a Fiverr User. We update this Client soon...
+
+To Install this Client look at the READ_ME_CLIENT.txt File there is a Instruction.
